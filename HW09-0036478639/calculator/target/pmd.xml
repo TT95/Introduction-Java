@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="5.2.3" timestamp="2015-05-18T22:37:42.679">
+<file name="C:\Users\Teo\workspace\HW09-0036478639\calculator\src\main\java\hr\fer\zemris\java\gui\calc\CalculatorGUI.java">
+<violation beginline="126" endline="126" begincolumn="18" endcolumn="18" rule="EmptyStatementNotInLoop" ruleset="Empty Code" package="hr.fer.zemris.java.gui.calc" class="CalculatorGUI" method="getScreen" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.2.3/pmd-java/rules/java/empty.html#EmptyStatementNotInLoop" priority="3">
+An empty statement (semicolon) not part of a loop
+</violation>
+</file>
+<file name="C:\Users\Teo\workspace\HW09-0036478639\calculator\src\main\java\hr\fer\zemris\java\gui\calc\ICalculator.java">
+<violation beginline="15" endline="15" begincolumn="16" endcolumn="32" rule="UnusedModifier" ruleset="Unused Code" package="hr.fer.zemris.java.gui.calc" class="ICalculator" method="getInv" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.2.3/pmd-java/rules/java/unusedcode.html#UnusedModifier" priority="3">
+Avoid modifiers which are implied by the context
+</violation>
+<violation beginline="20" endline="20" begincolumn="16" endcolumn="40" rule="UnusedModifier" ruleset="Unused Code" package="hr.fer.zemris.java.gui.calc" class="ICalculator" method="getStack" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.2.3/pmd-java/rules/java/unusedcode.html#UnusedModifier" priority="3">
+Avoid modifiers which are implied by the context
+</violation>
+<violation beginline="26" endline="26" begincolumn="16" endcolumn="34" rule="UnusedModifier" ruleset="Unused Code" package="hr.fer.zemris.java.gui.calc" class="ICalculator" method="getScreen" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.2.3/pmd-java/rules/java/unusedcode.html#UnusedModifier" priority="3">
+Avoid modifiers which are implied by the context
+</violation>
+<violation beginline="31" endline="31" begincolumn="16" endcolumn="41" rule="UnusedModifier" ruleset="Unused Code" package="hr.fer.zemris.java.gui.calc" class="ICalculator" method="getOperation" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.2.3/pmd-java/rules/java/unusedcode.html#UnusedModifier" priority="3">
+Avoid modifiers which are implied by the context
+</violation>
+<violation beginline="36" endline="36" begincolumn="16" endcolumn="35" rule="UnusedModifier" ruleset="Unused Code" package="hr.fer.zemris.java.gui.calc" class="ICalculator" method="getLastNum" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.2.3/pmd-java/rules/java/unusedcode.html#UnusedModifier" priority="3">
+Avoid modifiers which are implied by the context
+</violation>
+<violation beginline="43" endline="43" begincolumn="16" endcolumn="42" rule="UnusedModifier" ruleset="Unused Code" package="hr.fer.zemris.java.gui.calc" class="ICalculator" method="getLastNumExists" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.2.3/pmd-java/rules/java/unusedcode.html#UnusedModifier" priority="3">
+Avoid modifiers which are implied by the context
+</violation>
+<violation beginline="50" endline="50" begincolumn="16" endcolumn="44" rule="UnusedModifier" ruleset="Unused Code" package="hr.fer.zemris.java.gui.calc" class="ICalculator" method="getOperationExists" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.2.3/pmd-java/rules/java/unusedcode.html#UnusedModifier" priority="3">
+Avoid modifiers which are implied by the context
+</violation>
+<violation beginline="55" endline="55" begincolumn="16" endcolumn="41" rule="UnusedModifier" ruleset="Unused Code" package="hr.fer.zemris.java.gui.calc" class="ICalculator" method="getDotActivated" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.2.3/pmd-java/rules/java/unusedcode.html#UnusedModifier" priority="3">
+Avoid modifiers which are implied by the context
+</violation>
+<violation beginline="60" endline="60" begincolumn="16" endcolumn="33" rule="UnusedModifier" ruleset="Unused Code" package="hr.fer.zemris.java.gui.calc" class="ICalculator" method="getPanel" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.2.3/pmd-java/rules/java/unusedcode.html#UnusedModifier" priority="3">
+Avoid modifiers which are implied by the context
+</violation>
+<violation beginline="65" endline="65" begincolumn="16" endcolumn="40" rule="UnusedModifier" ruleset="Unused Code" package="hr.fer.zemris.java.gui.calc" class="ICalculator" method="getScreenString" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.2.3/pmd-java/rules/java/unusedcode.html#UnusedModifier" priority="3">
+Avoid modifiers which are implied by the context
+</violation>
+<violation beginline="70" endline="70" begincolumn="16" endcolumn="41" rule="UnusedModifier" ruleset="Unused Code" package="hr.fer.zemris.java.gui.calc" class="ICalculator" method="getFunctionUsed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.2.3/pmd-java/rules/java/unusedcode.html#UnusedModifier" priority="3">
+Avoid modifiers which are implied by the context
+</violation>
+<violation beginline="77" endline="77" begincolumn="16" endcolumn="58" rule="UnusedModifier" ruleset="Unused Code" package="hr.fer.zemris.java.gui.calc" class="ICalculator" method="setFunctionUsed" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.2.3/pmd-java/rules/java/unusedcode.html#UnusedModifier" priority="3">
+Avoid modifiers which are implied by the context
+</violation>
+<violation beginline="83" endline="83" begincolumn="16" endcolumn="58" rule="UnusedModifier" ruleset="Unused Code" package="hr.fer.zemris.java.gui.calc" class="ICalculator" method="setDotActivated" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.2.3/pmd-java/rules/java/unusedcode.html#UnusedModifier" priority="3">
+Avoid modifiers which are implied by the context
+</violation>
+<violation beginline="89" endline="89" begincolumn="16" endcolumn="64" rule="UnusedModifier" ruleset="Unused Code" package="hr.fer.zemris.java.gui.calc" class="ICalculator" method="setOperationExists" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.2.3/pmd-java/rules/java/unusedcode.html#UnusedModifier" priority="3">
+Avoid modifiers which are implied by the context
+</violation>
+<violation beginline="94" endline="94" begincolumn="16" endcolumn="40" rule="UnusedModifier" ruleset="Unused Code" package="hr.fer.zemris.java.gui.calc" class="ICalculator" method="setInv" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.2.3/pmd-java/rules/java/unusedcode.html#UnusedModifier" priority="3">
+Avoid modifiers which are implied by the context
+</violation>
+<violation beginline="99" endline="99" begincolumn="16" endcolumn="45" rule="UnusedModifier" ruleset="Unused Code" package="hr.fer.zemris.java.gui.calc" class="ICalculator" method="setScreen" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.2.3/pmd-java/rules/java/unusedcode.html#UnusedModifier" priority="3">
+Avoid modifiers which are implied by the context
+</violation>
+<violation beginline="104" endline="104" begincolumn="16" endcolumn="55" rule="UnusedModifier" ruleset="Unused Code" package="hr.fer.zemris.java.gui.calc" class="ICalculator" method="setOperation" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.2.3/pmd-java/rules/java/unusedcode.html#UnusedModifier" priority="3">
+Avoid modifiers which are implied by the context
+</violation>
+<violation beginline="109" endline="109" begincolumn="16" endcolumn="43" rule="UnusedModifier" ruleset="Unused Code" package="hr.fer.zemris.java.gui.calc" class="ICalculator" method="setLastNum" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.2.3/pmd-java/rules/java/unusedcode.html#UnusedModifier" priority="3">
+Avoid modifiers which are implied by the context
+</violation>
+<violation beginline="114" endline="114" begincolumn="16" endcolumn="47" rule="UnusedModifier" ruleset="Unused Code" package="hr.fer.zemris.java.gui.calc" class="ICalculator" method="setNumToScreen" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.2.3/pmd-java/rules/java/unusedcode.html#UnusedModifier" priority="3">
+Avoid modifiers which are implied by the context
+</violation>
+<violation beginline="120" endline="120" begincolumn="16" endcolumn="60" rule="UnusedModifier" ruleset="Unused Code" package="hr.fer.zemris.java.gui.calc" class="ICalculator" method="setLastNumExists" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.2.3/pmd-java/rules/java/unusedcode.html#UnusedModifier" priority="3">
+Avoid modifiers which are implied by the context
+</violation>
+</file>
+<file name="C:\Users\Teo\workspace\HW09-0036478639\calculator\src\main\java\hr\fer\zemris\java\gui\calc\functions\IFunction.java">
+<violation beginline="25" endline="25" begincolumn="16" endcolumn="43" rule="UnusedModifier" ruleset="Unused Code" package="hr.fer.zemris.java.gui.calc.functions" class="IFunction" method="function" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.2.3/pmd-java/rules/java/unusedcode.html#UnusedModifier" priority="3">
+Avoid modifiers which are implied by the context
+</violation>
+<violation beginline="31" endline="31" begincolumn="16" endcolumn="46" rule="UnusedModifier" ruleset="Unused Code" package="hr.fer.zemris.java.gui.calc.functions" class="IFunction" method="invFunction" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.2.3/pmd-java/rules/java/unusedcode.html#UnusedModifier" priority="3">
+Avoid modifiers which are implied by the context
+</violation>
+</file>
+<file name="C:\Users\Teo\workspace\HW09-0036478639\calculator\src\main\java\hr\fer\zemris\java\gui\calc\operations\IOperation.java">
+<violation beginline="22" endline="22" begincolumn="16" endcolumn="58" rule="UnusedModifier" ruleset="Unused Code" package="hr.fer.zemris.java.gui.calc.operations" class="IOperation" method="calculate" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.2.3/pmd-java/rules/java/unusedcode.html#UnusedModifier" priority="3">
+Avoid modifiers which are implied by the context
+</violation>
+</file>
+<file name="C:\Users\Teo\workspace\HW09-0036478639\calculator\src\main\java\hr\fer\zemris\java\gui\layouts\CalcLayout.java">
+<violation beginline="59" endline="61" begincolumn="33" endcolumn="33" rule="CollapsibleIfStatements" ruleset="Basic" package="hr.fer.zemris.java.gui.layouts" class="CalcLayout" method="checkLegalIndex" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.2.3/pmd-java/rules/java/basic.html#CollapsibleIfStatements" priority="3">
+These nested if statements could be combined
+</violation>
+<violation beginline="83" endline="83" begincolumn="56" endcolumn="56" rule="EmptyStatementNotInLoop" ruleset="Empty Code" package="hr.fer.zemris.java.gui.layouts" class="CalcLayout" method="CalcLayout" externalInfoUrl="http://pmd.sourceforge.net/pmd-5.2.3/pmd-java/rules/java/empty.html#EmptyStatementNotInLoop" priority="3">
+An empty statement (semicolon) not part of a loop
+</violation>
+</file>
+</pmd>

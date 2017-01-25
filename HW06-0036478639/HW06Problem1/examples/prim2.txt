@@ -1,0 +1,30 @@
+		load r0, @unesi
+		load r1, @nemoguce
+		load r2, @sljedeci
+		load r4, @brojac
+		load r5, @nula
+		load r6, @noviRed
+@poc:	echo r0
+		iinput @vrijednost
+		jumpIfTrue @ispis
+		echo r1
+		jump @poc
+@ispis: echo r2
+		load r3, @vrijednost
+		increment r3
+@broj:	echo r3
+		echo r6
+		increment r3
+		decrement r4
+		testEquals r4, r5
+		jumpIfTrue @halt
+		jump @broj
+@halt:	halt
+	
+@unesi: DEFSTR "Unesite pocetni broj: "
+@nemoguce: DEFSTR "Unos nije moguce protumaciti kao cijeli broj. \n"
+@sljedeci: DEFSTR "Sljedecih 5 brojeva je: \n"
+@vrijednost: DEFINT 150
+@brojac: DEFINT 5
+@nula: DEFINT 0
+@noviRed: DEFSTR "\n"

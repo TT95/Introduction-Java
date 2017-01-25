@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DemoApplication</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_form">FormActivity</string>
+    <string name="add_numbers">Provide two numbers and operation!</string>
+    <string name="enter_first_variable">Enter second variable </string>
+    <string name="enter_second_variable">Enter first variable </string>
+    <string name="calculate">Calculate</string>
+    <string name="title_activity_calculus"> CalculusActivity </string>
+    <string name="return_string">Return</string>
+    <string name="open">Open</string>
+    <string name="call">Call</string>
+    <string name="sum">+</string>
+    <string name="sub">-</string>
+    <string name="mul">/</string>
+    <string name="div">*</string>
+    <string name="radio_buttons">operation:</string>
+    <string name="btn_send">Send email</string>
+</resources>

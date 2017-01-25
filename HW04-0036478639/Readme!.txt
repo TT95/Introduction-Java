@@ -1,0 +1,1 @@
+Koristiti naziv KRUZNICA umjesto KRUG pri unosu podataka!
